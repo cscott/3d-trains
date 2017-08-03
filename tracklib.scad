@@ -26,8 +26,8 @@ $o = .1;
 function wood_width()            = 40;
 function wood_height()           = 12;
 function wood_well_height()      = 9;
-function wood_well_width()       = 5.7;
-function wood_well_spacing()     = 19.25;
+function wood_well_width()       = 6.1; // was: 5.7;
+function wood_well_spacing()     = 19.15; // was: 19.25;
 function wood_plug_radius()      = 6;
 function wood_plug_neck_length() = 12;
 
