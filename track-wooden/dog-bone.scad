@@ -46,7 +46,7 @@ dogbone(solid);
 
 // Not sure where tracklib might be, so try to load it from a couple of locations.
 use <../tracklib.scad>; // github clone
-use <tracklib.scad>;    // likely downloaded from thingiverse
+//use <tracklib.scad>;    // likely downloaded from thingiverse
 
 /*
  * @param bool solid Render as a solid plug, or set to false for the "spring" variant.

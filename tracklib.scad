@@ -49,10 +49,10 @@ function bevel() = bevel;
  * ****************************************************************************** */
 
 // Not sure where the main dotscad files might be, so try to load from a few locations.
-use <../../dotscad/pie.scad>;
+//use <../../dotscad/pie.scad>;
 use <../dotscad/pie.scad>;
-use <dotscad/pie.scad>;
-use <pie.scad>;
+//use <dotscad/pie.scad>;
+//use <pie.scad>;
 
 /* ******************************************************************************
  * Examples

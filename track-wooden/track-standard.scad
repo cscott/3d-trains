@@ -63,7 +63,7 @@ render_track(base, left, straight, right, straight_size, radius, angle);
 
 // Not sure where tracklib might be, so try to load it from a couple of locations.
 use <../tracklib.scad>;
-use <tracklib.scad>;
+//use <tracklib.scad>;
 
 /*
  * @param string base              Connector to place on the base end of the piece.
